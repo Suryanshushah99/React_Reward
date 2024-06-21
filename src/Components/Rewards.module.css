@@ -1,0 +1,11 @@
+.users {
+    margin: 1rem auto;
+    width: 80%;
+    max-width: 40rem;
+  }
+
+  .month {
+    display: flex;
+    justify-content: space-between;
+    padding:1rem 1rem 0 1rem;
+  }
