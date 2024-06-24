@@ -1,3 +1,4 @@
+//to calculate reward as per the formula
 const calculateReward = (price) => {
   let rewards = 0;
   if (price > 50) {
@@ -9,6 +10,7 @@ const calculateReward = (price) => {
   return rewards;
 };
 
+//to map txn as per month and calculate reward
 export const customerReward = (userData) => {
   const d = new Date();
   let currentMonth = d.getMonth();
