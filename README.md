@@ -22,7 +22,7 @@ $ json-server --watch db.json --port 4000
 
 ## Usage detiails
 
-The project is using a mock Json server with mock data for only two customers. Other users- or transactions need to be added directly into the `db.json` file as the app doesn't provide option to add from interface.
+The project is using a mock Json server with mock data for only three customers. Other users- or transactions need to be added directly into the `db.json` file as the app doesn't provide option to add from interface.
 
 
 ## preview
